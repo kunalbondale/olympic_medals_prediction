@@ -19,9 +19,6 @@ Most machine learning projects follow a similar outline, which we'll also follow
 6. Split your data.
 7. Train a model.
 
-## Code
-
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/beginner_ml).
 
 File overview:
 
